@@ -10,7 +10,6 @@ but because it is fun to program.
 
 
 
-<img src="https://i.postimg.cc/fRXywghV/linux.png"
 
 
 <h3 align="left">Follow me:</h3>
