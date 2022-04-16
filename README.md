@@ -41,3 +41,4 @@ dux074/dux074 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
