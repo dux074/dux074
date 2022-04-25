@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dux074
--
+
  # Welcome To My Github 
 
 # Experiences And Goals 
- CyberSec,Programming,Networking
-Currently Interested In Getting My CEH,Anything Comptia
+ - CyberSec,Programming,Networking
+- Currently Interested In Getting My CEH,Anything Comptia
 
 # Something I Can Work On 
 I wanna learn as much as i can also  land a job in the tech field 
