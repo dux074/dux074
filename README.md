@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @dux074
-CyberSec,Programming,Networking
+- 👋 Hi, I’m @dux074 Welcome To My Github 
+
+
+Experiences CyberSec,Programming,Networking
+Learning More Everyday
+Currently Interested In Getting My CEH,Anything Comptia 
 
 Most good programmers do programming not because they expect to get paid or get adulation by the public,
 but because it is fun to program.
@@ -9,7 +13,7 @@ but because it is fun to program.
 
 
 
-<h3 align="left">Follow me:</h3>
+<h3 align="left">Available on These Platforms </h3>
 <p align="left">
 <a href="instagram.com/dux074/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coder" height="30" width="40" /></a>
 <a href="https://beacons.page/dux074" target="blank"><img align="center" src="https://svgshare.com/i/WEc.svg" alt="coder" height="30" width="40" /></a>
