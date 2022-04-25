@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @dux074 Welcome To My Github 
+- 👋 Hi, I’m @dux074
 
+ # Welcome To My Github 
 
-Experiences CyberSec,Programming,Networking
-Learning More Everyday
-Currently Interested In Getting My CEH,Anything Comptia 
+# Experiences And Goals 
+ CyberSec,Programming,Networking
+Currently Interested In Getting My CEH,Anything Comptia
+
+# Something I Can Work On 
+I wanna learn as much as i can also  land a job in the tech field 
+
 
 Most good programmers do programming not because they expect to get paid or get adulation by the public,
 but because it is fun to program.
@@ -11,7 +16,7 @@ but because it is fun to program.
 
 
 
-
+# Follow Me 
 
 <h3 align="left">Available on These Platforms </h3>
 <p align="left">
