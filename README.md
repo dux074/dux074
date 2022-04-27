@@ -22,7 +22,7 @@ but because it is fun to program.
  <a href="https://www.linkedin.com/in/dux-x-2461a6228/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="coder" height="30" width="40" /></a>
  
 # Check Out My Blog
- <https://izsummarypy.site.xyz/
+ https://izsummarypy.site.xyz/
  
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)</br>
 
