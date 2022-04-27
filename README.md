@@ -6,6 +6,7 @@ On This Profile I Share Resources On Networking And Cyber Security
 <br>Im Also A Software  Connoisseur Sharing Anything Cool I Find On Github</br>
 # Experiences And Goals 
  - CyberSec,Programming,Networking,Political Science
+ - Programming Langs Golang,Rust,Python,Shell Code
 - Currently Interested In Getting My CEH,Anything Comptia
  
 # Quote
