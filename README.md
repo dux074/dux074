@@ -7,10 +7,7 @@ On This Profile I Share Resources On Networking And Cyber Security
 # Experiences And Goals 
  - CyberSec,Programming,Networking,Political Science
 - Currently Interested In Getting My CEH,Anything Comptia
-
-# Something I Can Work On 
-<br>I wanna learn as much as i can also  land a job in the tech field </br>
-
+- 
 # Quote
 Most good programmers do programming not because they expect to get paid or get adulation by the public,
 but because it is fun to program.
