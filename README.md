@@ -24,7 +24,10 @@ but because it is fun to program.
 <a href="https://beacons.page/dux074" target="blank"><img align="center" src="https://svgshare.com/i/WEc.svg" alt="coder" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/dux-x-2461a6228/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="coder" height="30" width="40" /></a>
  
-
+# Blog
+ https://izsummarypy.site.xyz/
  
 Accepting Donations 
 Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
+
+ 
