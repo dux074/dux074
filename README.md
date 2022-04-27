@@ -24,7 +24,8 @@ but because it is fun to program.
 # Check Out My Blog
  https://izsummarypy.site.xyz/
  
-Accepting Donations 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)
+
 Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
 
  
