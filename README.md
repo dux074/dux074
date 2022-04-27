@@ -22,9 +22,9 @@ but because it is fun to program.
  <a href="https://www.linkedin.com/in/dux-x-2461a6228/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="coder" height="30" width="40" /></a>
  
 # Check Out My Blog
- <br>https://izsummarypy.site.xyz/</br>
+ <https://izsummarypy.site.xyz/
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
 
