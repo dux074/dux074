@@ -13,7 +13,6 @@ but because it is fun to program.
 ~ Linus Torvalds
 
 
-Linux enthusiast
 # Follow Me 
 
 <h3 align="left">Available on These Platforms </h3>
@@ -22,7 +21,7 @@ Linux enthusiast
 <a href="https://beacons.page/dux074" target="blank"><img align="center" src="https://svgshare.com/i/WEc.svg" alt="coder" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/dux-x-2461a6228/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="coder" height="30" width="40" /></a>
  
-# Blog
+# Check Out My Blog
  https://izsummarypy.site.xyz/
  
 Accepting Donations 
