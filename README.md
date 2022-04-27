@@ -1,7 +1,7 @@
 
 # <br>Welcome To My Github</br>
 On This Profile I Share Resources On Networking And Cyber Security 
-<br>Im Also A Software  Connoisseur Sharing Anything Cool I Find On Github</br>
+<br>Im Also A Software Enthusiast Sharing Anything Cool I Find On Github</br>
 # Experiences And Goals 
  - CyberSec,Programming,Networking,Political Science
  - Programming Langs Golang,Rust,Python,Shell Code
@@ -13,7 +13,7 @@ but because it is fun to program.
 ~ Linus Torvalds
 
 
-
+Linux enthusiast
 # Follow Me 
 
 <h3 align="left">Available on These Platforms </h3>
