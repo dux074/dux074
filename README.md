@@ -5,11 +5,11 @@
 On This Profile I Share Resources On Networking And Cyber Security 
 <br>Im Also A Software  Connoisseur Sharing Anything Cool I Find On Github</br>
 # Experiences And Goals 
- - CyberSec,Programming,Networking
+ - CyberSec,Programming,Networking,Political Science
 - Currently Interested In Getting My CEH,Anything Comptia
 
 # Something I Can Work On 
-I wanna learn as much as i can also  land a job in the tech field 
+<br>I wanna learn as much as i can also  land a job in the tech field </br>
 
 
 Most good programmers do programming not because they expect to get paid or get adulation by the public,
