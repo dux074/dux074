@@ -5,7 +5,7 @@ On This Profile I Share Resources On Networking And Cyber Security
 # Experiences And Goals 
  - CyberSec,Programming,Networking,Political Science
  - Programming Langs Golang,Rust,Python,Shell Code
-- Currently Interested In Getting My CEH,Anything Comptia
+- Currently Interested In Getting My CEH,Anything Comptia And Landing a Job In Security
  
 # Quote
 Most good programmers do programming not because they expect to get paid or get adulation by the public,
