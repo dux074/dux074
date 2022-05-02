@@ -12,19 +12,11 @@ Most good programmers do programming not because they expect to get paid or get 
 but because it is fun to program.
 ~ Linus Torvalds
 
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-# Follow Me 
-
-<h3 align="left">Available on These Platforms </h3>
-<p align="left">
-<a href="instagram.com/dux074/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coder" height="30" width="40" /></a>
-<a href="https://beacons.page/dux074" target="blank"><img align="center" src="https://svgshare.com/i/WEc.svg" alt="coder" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/dux-x-2461a6228/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="coder" height="30" width="40" /></a>
- 
 # Check Out My Blog
  https://izsummarypy.site.xyz/
  
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
 
