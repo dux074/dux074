@@ -7,16 +7,10 @@ On This Profile I Share Resources On Networking And Cyber Security
  - Programming Langs Golang,Rust,Python,Shell Code
 - Currently Interested In Getting My CEH,Anything Comptia And Landing a Job In Security
  
-# Quote
-Most good programmers do programming not because they expect to get paid or get adulation by the public,
-but because it is fun to program.
-~ Linus Torvalds
+
 
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dux074)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-# Check Out My Blog
- https://izsummarypy.site.xyz/
- 
 
 Donations Monero 45LmYHLkUW1XdSt6FCpzEuKno1FFdRG8U1rTgADVsBriH8rZyt3GT5f9GTruXXaJdq65qw1JRjWh9bPaiCY7Fj1SBgxxHtK
 
