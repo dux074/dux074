@@ -11,8 +11,7 @@ On This Profile I Share Resources On Networking And Cyber Security
 
 
 
-https://www.instagram.com/graven144p/
-give a follow on insta also work with stable dissfusion
+
 
 
 
